@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currency Exchanger</string>
+
+    <string name="converter_section_balances_title">My balances</string>
+    <string name="converter_section_currency_exchange">Currency exchange</string>
+    
+    <string name="field_sell_title">Sell</string>
+    <string name="field_receive_title">Receive</string>
+    <string name="converter_button_submit">Submit</string>
+
+    <string name="popup_convert_button">Done</string>
+
+    <string name="image_content_description_sell">Converter screen sell image</string>
+    <string name="image_content_description_receive">Converter screen receive image</string>
+</resources>
